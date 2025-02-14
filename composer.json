@@ -13,5 +13,7 @@
             "email": "jack.c.harrison@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "*"
+    }
 }
