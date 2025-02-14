@@ -1,0 +1,17 @@
+{
+    "name": "frozen-leaves/support",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FrozenLeaves\\Support\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jack Harrison",
+            "email": "jack.c.harrison@outlook.com"
+        }
+    ],
+    "require": {}
+}
